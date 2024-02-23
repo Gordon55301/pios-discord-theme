@@ -14,10 +14,10 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
+    --pios-glow-hue:        170;
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
-    --pios-accent-hue:      0;
+    --pios-accent-hue:      170;
     --pios-title-text:      "piOS v2.1.01p";
 
     --crt-stripe:   block;
@@ -26,10 +26,10 @@
 }
 
 .theme-dark {
-    --pios-background-color:    #000000;
-    --pios-bright-color:        #FFFFFF;
-    --pios-middle-color:        #D3D3D3;
-    --pios-dim-color:           #808080;
+    --pios-background-color:    #D4D4DA;
+    --pios-bright-color:        #0000AA;
+    --pios-middle-color:        #0000AA;
+    --pios-dim-color:           #0000AA;
 }
 
 .theme-light {
